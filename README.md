@@ -10,12 +10,11 @@
   <a href="mailto:marcelinomarcel54@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail"/>
   </a>
- 
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=discord" height="42" alt="Discord"/>
 </p>
 
-<p align="center">
-  <strong>Discord:</strong> <code>mrcll</code>
-</p>
+
 
 <p>
 Passionate about building scalable, maintainable, and user-focused software.
@@ -98,22 +97,13 @@ My technical interests also include **Cloud Computing**, **Data Analytics**, and
 ---
 
 # 🎮 Pac-Man Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Marcellino0/Marcellino0/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Marcellino0/Marcellino0/pacman-output/pacman-contribution-graph.svg?game=pacman">
-
-  <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/Marcellino0/Marcellino0/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcellino0/Marcellino0/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcellino0/Marcellino0/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marcellino0/Marcellino0/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-</div>
+###
 
 ---
 
