@@ -1,13 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm Marcellino
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=220&section=header&text=Hi,%20I'm%20Marcellino%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Development%20Enthusiast&descAlignY=58&descSize=18&descColor=e5e7eb&animation=fadeIn" width="100%" alt="Header banner" />
 
-**Computer Science Graduate**
-**Software Engineer | Full-Stack Development Enthusiast**
+<img src="https://img.shields.io/badge/Computer%20Science%20Graduate-1e293b?style=for-the-badge" alt="Computer Science Graduate" />
+<img src="https://img.shields.io/badge/Full--Stack%20Development-1e293b?style=for-the-badge" alt="Full-Stack Development" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineer;Full-Stack+Development+Enthusiast;Java+%7C+Spring+Boot+%7C+Vue.js;Cloud+Computing+%7C+Data+Analytics;Always+Learning+New+Technologies" alt="Typing SVG" />
-
-<br>
+<br><br>
 
 <a href="https://github.com/marcellino0">
   <img src="https://komarev.com/ghpvc/?username=marcellino0&style=for-the-badge&color=2563EB" alt="Profile views" />
