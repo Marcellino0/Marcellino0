@@ -37,7 +37,7 @@ My technical interests also include **Cloud Computing**, **Data Analytics**, and
 # 🚀 Currently
 
 - 🔭 Building **Personal Portfolio** and **Full-Stack Web Applications**
-- 🌱 Learning **Software Architecture, Docker, Google Cloud Platform (GCP), and DevOps**
+- 🌱 Learning more about **Full-Stack Web Development, Machine Learning, and Data Analytics**
 - 🤝 Open to collaborating on **Open Source & Full-Stack Projects**
 - 💬 Ask me about **Java, Spring Boot, Vue.js, Python, REST API, PostgreSQL, Docker, and Data Analytics**
 - 📫 Reach me at **marcelinomarcel54@gmail.com**
