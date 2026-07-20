@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=220&section=header&text=Hi,%20I'm%20Marcellino%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Development%20Enthusiast&descAlignY=58&descSize=18&descColor=e5e7eb&animation=fadeIn" width="100%" alt="Header banner" />
 
-**Computer Science Graduate** &nbsp;•&nbsp; **Full-Stack Development Enthusiast**
+
 
 <br><br>
 
