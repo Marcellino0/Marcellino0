@@ -2,31 +2,35 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=220&section=header&text=Hi,%20I'm%20Marcellino%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Development%20Enthusiast&descAlignY=58&descSize=18&descColor=e5e7eb&animation=fadeIn" width="100%" alt="Header banner" />
 
+<p align="center">
+  <a href="https://linkedin.com/in/marcellino0">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:marcelinomarcel54@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail"/>
+  </a>
+</p>
 
-
-<br><br>
-
-<a href="https://linkedin.com/in/marcellino0">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:marcelinomarcel54@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+<p>
+Passionate about building scalable, maintainable, and user-focused software.
+</p>
 
 </div>
 
-<br>
+---
 
-## 💫 About Me
+# 💫 About Me
 
 💻 Computer Science graduate with a strong interest in **Software Engineering** and **Full-Stack Development**.
+
 I enjoy building scalable, maintainable, and user-focused web applications by combining frontend and backend technologies.
 
 My technical interests also include **Cloud Computing**, **Data Analytics**, and **Cybersecurity**, and I continuously explore modern software engineering practices and emerging technologies.
 
-<br>
+---
 
-## 🚀 Currently
+# 🚀 Currently
 
 - 🔭 Building **Personal Portfolio** and **Full-Stack Web Applications**
 - 🌱 Learning **Software Architecture, Docker, Google Cloud Platform (GCP), and DevOps**
@@ -34,73 +38,93 @@ My technical interests also include **Cloud Computing**, **Data Analytics**, and
 - 💬 Ask me about **Java, Spring Boot, Vue.js, Python, REST API, PostgreSQL, Docker, and Data Analytics**
 - 📫 Reach me at **marcelinomarcel54@gmail.com**
 
-<br>
+---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,php,javascript,html,css" alt="Languages" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=r" alt="R" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,php,javascript,html,css" alt="Languages"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=r" alt="R"/>
+</p>
 
-**Frontend**
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=vue,tailwind" alt="Frontend" />
+<p>
+<img src="https://skillicons.dev/icons?i=vue,tailwind" alt="Frontend"/>
+</p>
 
-**Backend**
+### Backend
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Backend" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=codeigniter,yii" alt="Backend Frameworks" />
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Backend"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=codeigniter,yii" alt="Frameworks"/>
+</p>
 
-**Database**
+### Database
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Database" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" alt="SQL Server" />
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Database"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" alt="SQL Server"/>
+</p>
 
-**Cloud & DevOps**
+### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,gcp,git,linux" alt="Cloud & DevOps" />
+<p>
+<img src="https://skillicons.dev/icons?i=docker,gcp,git,linux" alt="Cloud"/>
+</p>
 
-**Data & Analytics**
+### Data & Analytics
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=hadoop" alt="Hadoop" />
-<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=r" alt="R" />
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=hadoop" alt="Hadoop"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=r" alt="R"/>
+</p>
 
-**Tools**
+### Tools
 
-<img src="https://skillicons.dev/icons?i=figma,vscode,idea,postman" alt="Tools" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chartjs,apache" alt="More Tools" />
+<p>
+<img src="https://skillicons.dev/icons?i=figma,vscode,idea,postman" alt="Tools"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chartjs,apache" alt="More Tools"/>
+</p>
 
-<br>
+---
 
-## 🎮 Pac-Man Contribution Graph
+# 🎮 Pac-Man Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcellino0/Marcellino0/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcellino0/Marcellino0/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marcellino0/Marcellino0/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Marcellino0/Marcellino0/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Marcellino0/Marcellino0/pacman-output/pacman-contribution-graph.svg?game=pacman">
+
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/Marcellino0/Marcellino0/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### 💡 Favorite Technologies
+## 💡 Favorite Technologies
 
-<img src="https://skillicons.dev/icons?i=java,spring,vue,python,postgres,docker,gcp" alt="Favorite Technologies" />
+<img src="https://skillicons.dev/icons?i=java,spring,vue,python,postgres,docker,gcp" />
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+## ⭐ Thanks for Visiting!
 
 *"Building scalable, reliable, and user-centered software through continuous learning and modern technologies."*
 
