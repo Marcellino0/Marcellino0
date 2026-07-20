@@ -85,6 +85,7 @@ My technical interests also include **Cloud Computing**, **Data Analytics**, and
 <p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=apachespark"/>
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=r"/>
 </p>
 
 ### Tools
