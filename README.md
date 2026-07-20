@@ -10,8 +10,7 @@
   <a href="mailto:marcelinomarcel54@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail"/>
   </a>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=discord" height="42" alt="Discord"/>
+ 
 </p>
 
 <p align="center">
