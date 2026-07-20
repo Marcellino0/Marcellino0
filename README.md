@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Marcellino
 
-**Computer Science Graduate**
+**Computer Science**
 **Software Engineer | Full-Stack Development Enthusiast**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineer;Full-Stack+Development+Enthusiast;Java+%7C+Spring+Boot+%7C+Vue.js;Cloud+Computing+%7C+Data+Analytics;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -61,7 +61,7 @@ My technical interests also include **Cloud Computing**, **Data Analytics**, and
 **Database**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Database" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mssql" alt="MSSQL" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" alt="SQL Server" />
 
 **Cloud & DevOps**
 
@@ -69,7 +69,7 @@ My technical interests also include **Cloud Computing**, **Data Analytics**, and
 
 **Data & Analytics**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=apachespark" alt="Apache Spark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=hadoop" alt="Hadoop" />
 <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=r" alt="R" />
 
