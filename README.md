@@ -2,14 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=220&section=header&text=Hi,%20I'm%20Marcellino%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Development%20Enthusiast&descAlignY=58&descSize=18&descColor=e5e7eb&animation=fadeIn" width="100%" alt="Header banner" />
 
-<img src="https://img.shields.io/badge/Computer%20Science%20Graduate-3B82F6?style=for-the-badge&logoColor=white" alt="Computer Science Graduate" />
-<img src="https://img.shields.io/badge/Full--Stack%20Development-8B5CF6?style=for-the-badge&logoColor=white" alt="Full-Stack Development" />
+**Computer Science Graduate** &nbsp;•&nbsp; **Full-Stack Development Enthusiast**
 
 <br><br>
 
-<a href="https://github.com/marcellino0">
-  <img src="https://komarev.com/ghpvc/?username=marcellino0&style=for-the-badge&color=2563EB" alt="Profile views" />
-</a>
 <a href="https://linkedin.com/in/marcellino0">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
