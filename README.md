@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Marcellino
 
-**Computer Science**
+**Computer Science Graduate**
 **Software Engineer | Full-Stack Development Enthusiast**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineer;Full-Stack+Development+Enthusiast;Java+%7C+Spring+Boot+%7C+Vue.js;Cloud+Computing+%7C+Data+Analytics;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -80,31 +80,16 @@ My technical interests also include **Cloud Computing**, **Data Analytics**, and
 
 <br>
 
-## 📈 GitHub Analytics
+## 🎮 Pac-Man Contribution Graph
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcellino0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellino0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcellino0/Marcellino0/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcellino0/Marcellino0/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marcellino0/Marcellino0/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=marcellino0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=marcellino0&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-## 📊 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcellino0&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
 <br>
