@@ -2,40 +2,37 @@
 
 # 👋 Hi, I'm Marcellino
 
-### Computer Science Graduate
-### Software Engineer | Full-Stack Development Enthusiast
+**Computer Science Graduate**
+**Software Engineer | Full-Stack Development Enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineer;Full-Stack+Development+Enthusiast;Java+%7C+Spring+Boot+%7C+Vue.js;Cloud+Computing+%7C+Data+Analytics;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineer;Full-Stack+Development+Enthusiast;Java+%7C+Spring+Boot+%7C+Vue.js;Cloud+Computing+%7C+Data+Analytics;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/marcellino0">
-<img src="https://komarev.com/ghpvc/?username=marcellino0&style=for-the-badge&color=2563EB"/>
+  <img src="https://komarev.com/ghpvc/?username=marcellino0&style=for-the-badge&color=2563EB" alt="Profile views" />
 </a>
-
 <a href="https://linkedin.com/in/marcellino0">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
 <a href="mailto:marcelinomarcel54@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 </div>
 
----
+<br>
 
-# 💫 About Me
+## 💫 About Me
 
 💻 Computer Science graduate with a strong interest in **Software Engineering** and **Full-Stack Development**.
-
 I enjoy building scalable, maintainable, and user-focused web applications by combining frontend and backend technologies.
 
-My technical interests also include **Cloud Computing**, **Data Analytics**, and **Cybersecurity**, while continuously learning modern software engineering practices and emerging technologies.
+My technical interests also include **Cloud Computing**, **Data Analytics**, and **Cybersecurity**, and I continuously explore modern software engineering practices and emerging technologies.
 
----
+<br>
 
-# 🚀 Currently
+## 🚀 Currently
 
 - 🔭 Building **Personal Portfolio** and **Full-Stack Web Applications**
 - 🌱 Learning **Software Architecture, Docker, Google Cloud Platform (GCP), and DevOps**
@@ -43,107 +40,84 @@ My technical interests also include **Cloud Computing**, **Data Analytics**, and
 - 💬 Ask me about **Java, Spring Boot, Vue.js, Python, REST API, PostgreSQL, Docker, and Data Analytics**
 - 📫 Reach me at **marcelinomarcel54@gmail.com**
 
----
+<br>
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Languages
+**Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,php,javascript,html,css"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=r"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,php,javascript,html,css" alt="Languages" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=r" alt="R" />
 
-### Frontend
+**Frontend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=vue,tailwind"/>
-</p>
+<img src="https://skillicons.dev/icons?i=vue,tailwind" alt="Frontend" />
 
-### Backend
+**Backend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=codeigniter,yii"/>
-</p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Backend" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=codeigniter,yii" alt="Backend Frameworks" />
 
-### Database
+**Database**
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mssql"/>
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Database" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mssql" alt="MSSQL" />
 
-### Cloud & DevOps
+**Cloud & DevOps**
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,gcp,git,linux"/>
-</p>
+<img src="https://skillicons.dev/icons?i=docker,gcp,git,linux" alt="Cloud & DevOps" />
 
-### Data & Analytics
+**Data & Analytics**
 
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=apachespark"/>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=r"/>
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=apachespark" alt="Apache Spark" />
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=r" alt="R" />
 
-### Tools
+**Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,vscode,idea,postman"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chartjs,apache"/>
-</p>
+<img src="https://skillicons.dev/icons?i=figma,vscode,idea,postman" alt="Tools" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chartjs,apache" alt="More Tools" />
 
----
+<br>
 
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcellino0&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcellino0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellino0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellino0&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=marcellino0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
+<br>
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=marcellino0&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=marcellino0&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
----
+<br>
 
-# 🏆 GitHub Trophy
+## 📊 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=marcellino0&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcellino0&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcellino0&theme=tokyo-night"/>
-
-</div>
-
----
+<br>
 
 <div align="center">
 
 ### 💡 Favorite Technologies
 
-<img src="https://skillicons.dev/icons?i=java,spring,vue,python,postgres,docker,gcp"/>
+<img src="https://skillicons.dev/icons?i=java,spring,vue,python,postgres,docker,gcp" alt="Favorite Technologies" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
